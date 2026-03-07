@@ -1,6 +1,6 @@
 cask "graphite-notes" do
-  version "0.1.3"
-  sha256 "e9e83025236fedc5a9c262a238b0bdeddf122971c5a541a94cdcc3c1d832c421"
+  version "0.2.0"
+  sha256 "11a599dee57e0f067fc672de89fc9606e130d76ca2fff1d2aeb9ac11e4ad5488"
 
   url "https://github.com/bukamasedo/graphite/releases/download/v#{version}/Graphite_#{version}_aarch64.dmg"
   name "Graphite"
